@@ -14,17 +14,17 @@
 * 时间：持续约 2～4 weeks
 * 形式：提供一个深度学习框架相关的[深度学习框架专有概念list](https://github.com/sunzhongkai588/LearnDL/blob/main/深度学习概念清单.md) （如自动微分、计算图）和相关参考资料，开发者通过自学来了解相关专业“黑话”，并输出学习分享。
 * 作业：外部开发者在学习之后，需要在AIStudio上产出相应概念的科普文章，主要回答 **why、what、how** 。针对高质量文章，建立repo形成专题系列（cookbook），并在aistudio上标精品。
-* 奖励：参与学习并在AIStudio发表文章，即可获得20小时算力卡。
+* 奖励：参与学习并在[AIStudio](https://aistudio.baidu.com/aistudio/index)发表文章，即可获得20小时算力卡。
 
 ### 第二阶段：
 侧重实践的框架入门学习（实现一个深度学习框架）、复现开源活动（如黑客松）已有案例
 * 时间：持续约 4～6 weeks
 * 形式：
    1. 提供参考资料（如《用python实现深度学习框架》），通过学习和实践，实现一个简单的框架（如[microfrad](https://github.com/karpathy/micrograd)） ，我们提供示例（mnist）能跑即成功；
-   2. 开发者根据自己的能力和兴趣，复现或认领一个开源活动任务（黑客松 / call for contribution）；
+   2. 开发者根据自己的能力和兴趣，复现或认领一个开源活动任务（[good first issue](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue) 【推荐】/ 黑客松 / call for contribution / ...）；
    3. 有能力的开发者可以做技术分享blog （可选）
 * 作业：
-   1. aistudio 上增加**手撸框架**的示例；
+   1. **手撸一个深度学习框架**，在AIStudio上发表示例 or 在github建立一个repo；
    2. 至少一项开源活动任务认领；
    3. aistudio 或个人博客上技术分享 （可选）
 * 奖励：证书 + 小奖励
