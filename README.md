@@ -16,6 +16,8 @@
 * 作业：外部开发者每学习一个概念之后，需要在AIStudio上产出相应概念的科普文章，主要回答 **why、what、how** 。针对高质量文章，建立repo形成专题系列（cookbook），并在aistudio上标精品。
 * 奖励：参与学习并在[AIStudio](https://aistudio.baidu.com/aistudio/index)发表文章，即可获得20小时算力卡。
 
+PS：在该阶段，也可以通过参与 [good first issue](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue) 练练手
+
 ### 第二阶段：
 侧重实践的框架入门学习（实现一个深度学习框架）、复现开源活动（如黑客松）已有案例
 * 时间：持续约 4～6 weeks
