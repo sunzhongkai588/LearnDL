@@ -2,6 +2,8 @@
 
 **目标：** 通过分阶段的学习，让学习群里对深度学习框架不太了解的开发者，能够提高开发者的能力。 便于有意愿做贡献但缺乏能力的开发者在经过学习后，能够转化为框架的贡献者。
 
+[第一次学习群会议录播](https://meeting.tencent.com/v2/cloud-record/share?id=5614cd2e-a23c-4eab-aed7-1383f031d9a7&from=3&is-single=true)
+
 
 
 --------
