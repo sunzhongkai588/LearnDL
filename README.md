@@ -9,7 +9,7 @@
 
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/70642955/211499445-d5310c6e-01c7-4a47-8435-36c47bdee44e.png">
 
-### 第一阶段：
+### 第一阶段：🧐
 预备知识学习、专业概念科普
 * 时间：持续约 2～4 weeks
 * 形式：提供一个深度学习框架相关的[深度学习框架专有概念list](https://github.com/sunzhongkai588/LearnDL/blob/main/深度学习概念清单.md) （如自动微分、计算图）和相关参考资料，开发者通过自学来了解相关专业“黑话”，并输出学习分享。
@@ -18,7 +18,7 @@
 
 PS：在该阶段，也可以通过参与 [good first issue](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue) 练练手
 
-### 第二阶段：
+### 第二阶段：🤩
 侧重实践的框架入门学习（实现一个深度学习框架）、复现开源活动（如黑客松）已有案例
 * 时间：持续约 4～6 weeks
 * 形式：
@@ -31,7 +31,7 @@ PS：在该阶段，也可以通过参与 [good first issue](https://github.com/
    3. aistudio 或个人博客上技术分享 （可选）
 * 奖励：证书 + 小奖励
 
-### 第三阶段：
+### 第三阶段：🥳
 深入学习Paddle框架技术原理
 * 时间：待定
 * 形式：需要内部研发协助，开展专题课 or 技术分享；形成飞桨框架衍生版？
