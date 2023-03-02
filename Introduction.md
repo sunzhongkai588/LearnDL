@@ -32,7 +32,7 @@ Github ID: [sunzhongkai588](https://github.com/sunzhongkai588)
 | 时间 | 课程 | 讲师 | 授课材料 | 作业 |
 | :-----:| :----: | :----: | :----: | :----: |
 | 2.22 | 1.开课仪式<br>2.git简单教学 | 孙钟恺 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【2.22】第一节课概要.md)<br>[【第一课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL%20第一次课.pdf) | 1. 修复文档typo并提交PR <br> 2. 学习深度学习概念，并在AIStudio 发表一篇文章 |
-| 3.1 | 1. 深度学习概念科普 <br> 2. 飞桨校招研发的经历分享 | 孙钟恺 <br> 刘远乐| [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.01】第二节课概要.md)<br>[【第二课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL%20第二节课.pdf) <br>【误人子弟分享】——远乐   |  1. 学习Karpathy的自动微分视频（时长1.5h) <br> 2. 手动实现神经网络的自动微分机制 |
+| 3.1 | 1. 深度学习概念科普 <br> 2. 飞桨校招研发的经历分享 | 孙钟恺 <br> 刘远乐| [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.01】第二节课概要.md)<br>[【第二课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL%20第二节课.pdf) <br>[【误人子弟分享】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/误人子弟分享——刘远乐.pdf)——远乐   |  1. 学习Karpathy的自动微分视频（时长1.5h) <br> 2. 手动实现神经网络的自动微分机制 |
 
 ### 二、正式课程
 | 时间 |课程 | 讲师 | 授课材料 | 作业 |
