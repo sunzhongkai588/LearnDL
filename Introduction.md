@@ -6,6 +6,8 @@ Github ID: [sunzhongkai588](https://github.com/sunzhongkai588)
 
 邮箱: sunzhongkai@baidu.com
 
+活动报名链接：[立即报名](https://aistudio.baidu.com/aistudio/activitydetail/1502019049)
+
 微信联系方式: 13957128876（加群可联系）
 
 -----
