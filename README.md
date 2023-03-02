@@ -4,7 +4,7 @@
 * 通过分阶段的学习，让学习群里对深度学习框架不太了解的开发者，能够提高开发者的能力。 便于有意愿做贡献但缺乏能力的开发者在经过学习后，能够转化为框架的贡献者。
 * 同时，也以学习课程为契机，提供一个开发者们互相学习、交流的平台。
 
-具体课程介绍请参考 [Introduction](https://github.com/sunzhongkai588/LearnDL/blob/main/Introduction.md)（**重要**）🌟🌟🌟
+具体课程介绍请参考 [【Introduction】](https://github.com/sunzhongkai588/LearnDL/blob/main/Introduction.md)**<--重要!!!**🌟🌟🌟
 
 
 ![活动中心](https://user-images.githubusercontent.com/70642955/222437092-ecc3a44a-d982-40b5-99f6-29bff2d12e29.jpg)
