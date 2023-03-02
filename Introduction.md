@@ -2,7 +2,7 @@
 
 课程负责人: 孙钟恺 
 
-Github ID: sunzhongkai588
+Github ID: [sunzhongkai588](https://github.com/sunzhongkai588)
 
 邮箱: sunzhongkai@baidu.com
 
