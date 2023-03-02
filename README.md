@@ -7,6 +7,7 @@
 具体课程介绍请参考 [Introduction](https://github.com/sunzhongkai588/LearnDL/blob/main/Introduction.md)（**重要**）🌟🌟🌟
 
 
+![活动中心](https://user-images.githubusercontent.com/70642955/222437092-ecc3a44a-d982-40b5-99f6-29bff2d12e29.jpg)
 
 
 
@@ -18,7 +19,6 @@
 --------
 ## 活动安排
 
-<img width="881" alt="image" src="https://user-images.githubusercontent.com/70642955/211499445-d5310c6e-01c7-4a47-8435-36c47bdee44e.png">
 
 ### 第一阶段：🧐
 预备知识学习、专业概念科普
