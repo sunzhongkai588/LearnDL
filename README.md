@@ -6,6 +6,7 @@
 
 具体课程介绍请参考 [【Introduction】](https://github.com/sunzhongkai588/LearnDL/blob/main/Introduction.md) **<--重要！！！** 🌟🌟🌟
 
+每期授课材料见：[【百度网盘】](https://pan.baidu.com/s/1lJ48UpDVMd0rcXeA2h9qSA?pwd=e6ha) 提取码: e6ha 
 
 ![活动中心](https://user-images.githubusercontent.com/70642955/222437092-ecc3a44a-d982-40b5-99f6-29bff2d12e29.jpg)
 
