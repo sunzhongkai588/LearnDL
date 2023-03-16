@@ -39,7 +39,7 @@ Github ID: [sunzhongkai588](https://github.com/sunzhongkai588)
 ### 二、正式课程
 | 时间 |课程 | 讲师 | 授课材料 | 作业 |
 | :-----:| :----: | :----: | :----: | :----: |
-| 3.8 | AI编译器<br>如何为CINN添加算子 | 翁瑜 | ... | 1. 编译打卡<br>2. 单测完善 |
+| 3.8 | AI编译器<br>如何为CINN添加算子 | 翁瑜 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.08】第三节课概要.md) <br>[【第三课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL第三节课.pdf) | 1. 编译打卡<br>2. 单测完善 |
 | 3.15 | python代码开发逻辑——抽象、封装 | 曙光磁铁 | ... | ... |
 | 3.22 | 1. 自动微分简单原理<br>2. 飞桨自动微分使用 | 张师傅<br>周原野 | ... | ... |
 | 3.29 | 动转静流程及原理 | 徐晓健 | ... | ... |
