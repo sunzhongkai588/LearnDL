@@ -38,7 +38,7 @@ PS：在该阶段，也可以通过参与 [good first issue](https://github.com/
 | :-----:| :----: | :----: | :----: | :----: |
 | 3.8 | AI编译器<br>如何为CINN添加算子 | 翁瑜 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.08】第三节课概要.md) <br>[【第三课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL第三节课.pdf) | 1. 编译打卡<br>2. 单测完善 |
 | 3.15 | python代码开发逻辑——抽象、封装 | 曙光磁铁 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.15】第四节课概要.md) | 无 |
-| 3.22 | Paddle Inference介绍<br>API写作规范| 景壮壮<br>孙钟恺 |  | 无 |
+| 3.22 | Paddle Inference介绍<br>API写作规范| 景壮壮<br>孙钟恺 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.22】第五节课概要.md) | 无 |
 | 3.29 | 1. 自动微分简单原理<br>2. 飞桨自动微分使用 | 张师傅| ... | ... |
 | 4.12 | 动转静流程及原理 | 徐晓健 | ... | ... |
 | ... | ... | ... | ... | ... |
