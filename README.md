@@ -40,8 +40,7 @@ PS：在该阶段，也可以通过参与 [good first issue](https://github.com/
 | 3.15 | python代码开发逻辑——抽象、封装 | 曙光磁铁 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.15】第四节课概要.md) | 无 |
 | 3.22 | Paddle Inference介绍<br>API写作规范| 景壮壮<br>孙钟恺 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.22】第五节课概要.md)  | 无 |
 | 3.29 | 1. 自动微分简单原理<br>2. 飞桨自动微分使用 | 笠雨聆月 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.29】第六节课概要.md) | 无 |
-| 4.12 | 动转静流程及原理 | 徐晓健 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/%E6%8E%88%E8%AF%BE%E6%9D%90%E6%96%99/LearnDL%E7%AC%AC%E4%B8%83%E8%8A%82%E8%AF%BE.pdf) <br> [【第七课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL第七节课.pdf
-)| 1.学习tiny-dy2st 动转静部分 <br>2.并自行写一个新的 dy2st <br> or 完善现有 dy2st 增加任意一个新的小功能|
+| 4.12 | 动转静流程及原理 | 徐晓健 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【4.12】%20第七节课概要.md) <br> [【第七课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL第七节课-动转静乱讲.pdf)| 1.学习tiny-dy2st 动转静部分 <br>2.并自行写一个新的 dy2st <br> or 完善现有 dy2st 增加任意一个新的小功能|
 | ... | ... | ... | ... | ... |
 
 #### 课程海报
