@@ -44,5 +44,6 @@ Github ID: [sunzhongkai588](https://github.com/sunzhongkai588)
 | 3.22 | Paddle Inference介绍<br>API写作规范| 景壮壮<br>孙钟恺 | [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.22】第五节课概要.md)  | 无 |
 | 3.29 | 1. 自动微分简单原理<br>2. 飞桨自动微分使用 | 张师傅| [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【3.29】第六节课概要.md)  | 无 |
 | 4.12 | 动转静流程及原理 | 徐晓健 |  [【课程概要】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/【4.12】%20第七节课概要.md) <br> [【第七课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/授课材料/LearnDL第七节课-动转静乱讲.pdf) | 1. 学习[tiny-dy2st](https://github.com/ShigureLab/tiny-dy2st) 动转静部分 <br>2. 手撕复现 dy2st / 为 dy2st 增加一个小功能 |
+| 4.19 | python新增API | 李健铭 |  [【课程概要】](https://github.com/sunzhongkai588/LearnDL/edit/main/%E6%8E%88%E8%AF%BE%E6%9D%90%E6%96%99/%E3%80%904.19%E3%80%91%20%E7%AC%AC%E5%85%AB%E8%8A%82%E8%AF%BE%E6%A6%82%E8%A6%81.md) <br> [【第八课PDF】](https://github.com/sunzhongkai588/LearnDL/blob/main/%E6%8E%88%E8%AF%BE%E6%9D%90%E6%96%99/LearnDL%E7%AC%AC%E5%85%AB%E8%8A%82%E8%AF%BE.pdf)| 无|
 | ... | ... | ... | ... | ... |
 
